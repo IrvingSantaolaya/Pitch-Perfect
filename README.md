@@ -5,5 +5,5 @@ Pitch Perfect Udacity Course Project
 This app allows the user to record their voice and then play it back with different effects!
 
 ## Screenshots
-![](images/playbackImage.png)
-![](images/recordImage.png)
+![](images/resizedRecordImage.png) ![](images/resizedPlaybackImage.png)
+
